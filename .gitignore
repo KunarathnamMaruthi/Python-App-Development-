@@ -1,0 +1,9 @@
+# Python
+myenvpy/
+__pycache__/
+*.pyc
+.env
+
+# Node
+node_modules/
+npm-debug.log
